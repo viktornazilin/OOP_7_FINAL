@@ -1,0 +1,51 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CodeBlogFitness.BL\CodeBlogFitness.BL.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="System.ValueTuple" />
+    <None Remove="Languages\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.ValueTuple" Version="4.5.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Languages\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Languages\Messages-ru-ru.Designer.cs">
+      <DependentUpon>Messages-ru-ru.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Languages\Messages-ru-ru.Designer.cs">
+      <DependentUpon>Messages-ru-ru.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Languages\Messages.Designer.cs">
+      <DependentUpon>Messages.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Languages\Messages-en-us.Designer.cs">
+      <DependentUpon>Messages-en-us.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Languages\Messages-ru-ru.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Messages-ru-ru.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Languages\Messages.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Messages.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Languages\Messages-en-us.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Messages-en-us.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

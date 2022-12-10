@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NpR19k62lDjaZua0nLjahGqSme62wNTRgIDtUPAOQ6RQT69PDHyj7W48onvUmkIeJtCqSKN59ygqtW0YhaGiKQ==",
+  "success": true,
+  "projectFilePath": "/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/CodeBlogFitness.CMD.csproj",
+  "expectedPackageFiles": [
+    "/Users/viktornazilin/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,77 @@
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.CMD
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.CMD.deps.json
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.CMD.runtimeconfig.json
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.CMD.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.CMD.pdb
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.BL.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.BL.pdb
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.csproj.AssemblyReference.cache
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.AssemblyInfoInputs.cache
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.AssemblyInfo.cs
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.csproj.CoreCompileInputs.cache
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.csproj.CopyComplete
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/refint/CodeBlogFitness.CMD.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.pdb
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.genruntimeconfig.cache
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/ref/CodeBlogFitness.CMD.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.csproj.GenerateResource.cache
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.Languages.Messages-ru-ru.resources
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.Languages.Messages-en-us.resources
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.Languages.Messages.resources
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.CMD
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.CMD.deps.json
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.CMD.runtimeconfig.json
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.CMD.dll
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.CMD.pdb
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.BL.dll
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.BL.pdb
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.csproj.AssemblyReference.cache
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.Languages.Messages-en-us.resources
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.Languages.Messages-ru-ru.resources
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.Languages.Messages.resources
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.csproj.GenerateResource.cache
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.AssemblyInfoInputs.cache
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.AssemblyInfo.cs
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.csproj.CoreCompileInputs.cache
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.csproj.CopyComplete
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.dll
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/obj/Debug/net6.0/refint/CodeBlogFitness.CMD.dll
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.pdb
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.genruntimeconfig.cache
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.CMD/obj/Debug/net6.0/ref/CodeBlogFitness.CMD.dll
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.CMD
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.CMD.deps.json
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.CMD.runtimeconfig.json
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.CMD.dll
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.CMD.pdb
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.BL.dll
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/bin/Debug/net6.0/CodeBlogFitness.BL.pdb
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.csproj.AssemblyReference.cache
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.Languages.Messages-en-us.resources
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.Languages.Messages-ru-ru.resources
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.Languages.Messages.resources
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.csproj.GenerateResource.cache
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.AssemblyInfoInputs.cache
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.AssemblyInfo.cs
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.csproj.CoreCompileInputs.cache
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.csproj.CopyComplete
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.dll
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/refint/CodeBlogFitness.CMD.dll
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.pdb
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/CodeBlogFitness.CMD.genruntimeconfig.cache
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.CMD/obj/Debug/net6.0/ref/CodeBlogFitness.CMD.dll
