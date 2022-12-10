@@ -1,0 +1,36 @@
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.BL/bin/Debug/net6.0/CodeBlogFitness.BL.deps.json
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.BL/bin/Debug/net6.0/CodeBlogFitness.BL.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.BL/bin/Debug/net6.0/CodeBlogFitness.BL.pdb
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.csproj.AssemblyReference.cache
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.AssemblyInfoInputs.cache
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.AssemblyInfo.cs
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.csproj.CoreCompileInputs.cache
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/refint/CodeBlogFitness.BL.dll
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.pdb
+/Users/viktornazilin/Projects/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/ref/CodeBlogFitness.BL.dll
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.BL/bin/Debug/net6.0/CodeBlogFitness.BL.deps.json
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.BL/bin/Debug/net6.0/CodeBlogFitness.BL.dll
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.BL/bin/Debug/net6.0/CodeBlogFitness.BL.pdb
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.csproj.AssemblyReference.cache
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.AssemblyInfoInputs.cache
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.AssemblyInfo.cs
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.csproj.CoreCompileInputs.cache
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.dll
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.BL/obj/Debug/net6.0/refint/CodeBlogFitness.BL.dll
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.pdb
+/Users/viktornazilin/Desktop/C#/CFO Template/CodeBlogFitness.BL/obj/Debug/net6.0/ref/CodeBlogFitness.BL.dll
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.BL/bin/Debug/net6.0/CodeBlogFitness.BL.deps.json
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.BL/bin/Debug/net6.0/CodeBlogFitness.BL.dll
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.BL/bin/Debug/net6.0/CodeBlogFitness.BL.pdb
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.csproj.AssemblyReference.cache
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.AssemblyInfoInputs.cache
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.AssemblyInfo.cs
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.csproj.CoreCompileInputs.cache
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.dll
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/refint/CodeBlogFitness.BL.dll
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/CodeBlogFitness.BL.pdb
+/Users/viktornazilin/Desktop/Unity/C#/FitnessApp/CodeBlogFitness.BL/obj/Debug/net6.0/ref/CodeBlogFitness.BL.dll

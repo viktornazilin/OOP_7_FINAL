@@ -1,0 +1,7 @@
+﻿Классы:
+- User = Organisation (Аутентификация для профиля организации)
+- Activity = Investments (?)
+- Exercise = Banks (банковские предложения)
+- Food = CashFlow (Данные об организационной прибыли/расходах)
+- FoodEating = FreeCFCalculation (Расчет свободной суммы инвестиций)
+- Gender = BusinessRole (Ввод роли пользователя в организации)
